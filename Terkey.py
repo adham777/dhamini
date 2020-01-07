@@ -1,3 +1,7 @@
+import os
+Import sys
+Import random
+
 a='\033[92m'
 b ='\033[91m'
 c ='\033[0m'
