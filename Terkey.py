@@ -8,7 +8,7 @@ print('\t https://adhamhh.my.id')
 print(a+'+'*40)
 print('\nProses..')
 sleep(1)
-print(b+'\n[!] making termux properties directory..")
+print(b+'\n[!] making termux properties directory..')
 sleep(1)
 try:
       os.mkdir('/data/data/com.termux/files/home/.termux')
