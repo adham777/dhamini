@@ -1,6 +1,6 @@
 import os
-Import sys
-Import random
+import sys
+import random
 
 a='\033[92m'
 b ='\033[91m'
